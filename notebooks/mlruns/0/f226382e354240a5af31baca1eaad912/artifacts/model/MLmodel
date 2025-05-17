@@ -1,0 +1,37 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 1575
+model_uuid: e3af72fb17db4f0abb71582d511e6ca5
+prompts: null
+run_id: f226382e354240a5af31baca1eaad912
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "age", "required": true}, {"type": "double",
+    "name": "bmi", "required": true}, {"type": "double", "name": "glucose_level",
+    "required": true}, {"type": "long", "name": "family_history", "required": true},
+    {"type": "long", "name": "smoker", "required": true}, {"type": "boolean", "name":
+    "physical_activity_level_low", "required": true}, {"type": "boolean", "name":
+    "physical_activity_level_moderate", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-06 06:41:19.514879'

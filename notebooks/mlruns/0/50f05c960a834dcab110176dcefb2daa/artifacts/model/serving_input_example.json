@@ -1,0 +1,24 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "age",
+      "bmi",
+      "glucose_level",
+      "family_history",
+      "smoker",
+      "physical_activity_level_low",
+      "physical_activity_level_moderate"
+    ],
+    "data": [
+      [
+        57.0,
+        15.019726561231955,
+        86.86629720922038,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ]
+  }
+}

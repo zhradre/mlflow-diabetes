@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/2b0b1fbb05364f14a2d96affdf8aa1e7/artifacts
+end_time: 1746516638770
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: 2b0b1fbb05364f14a2d96affdf8aa1e7
+run_name: smiling-bird-519
+run_uuid: 2b0b1fbb05364f14a2d96affdf8aa1e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516638539
+status: 3
+tags: []
+user_id: coder

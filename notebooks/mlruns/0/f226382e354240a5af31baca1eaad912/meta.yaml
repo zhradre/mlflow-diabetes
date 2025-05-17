@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/0/f226382e354240a5af31baca1eaad912/artifacts
+end_time: 1746513682492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f226382e354240a5af31baca1eaad912
+run_name: sassy-fawn-360
+run_uuid: f226382e354240a5af31baca1eaad912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746513679502
+status: 3
+tags: []
+user_id: coder

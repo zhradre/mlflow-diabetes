@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/0/50f05c960a834dcab110176dcefb2daa/artifacts
+end_time: 1746513855129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50f05c960a834dcab110176dcefb2daa
+run_name: brawny-conch-231
+run_uuid: 50f05c960a834dcab110176dcefb2daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746513852100
+status: 3
+tags: []
+user_id: coder

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/0249c95ee8704aa1baae3f7813882260/artifacts
+end_time: 1746516641790
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: 0249c95ee8704aa1baae3f7813882260
+run_name: hilarious-seal-510
+run_uuid: 0249c95ee8704aa1baae3f7813882260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516641572
+status: 3
+tags: []
+user_id: coder

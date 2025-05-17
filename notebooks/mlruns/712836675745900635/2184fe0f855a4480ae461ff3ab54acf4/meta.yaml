@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/2184fe0f855a4480ae461ff3ab54acf4/artifacts
+end_time: 1746516632870
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: 2184fe0f855a4480ae461ff3ab54acf4
+run_name: chill-snail-516
+run_uuid: 2184fe0f855a4480ae461ff3ab54acf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516632621
+status: 3
+tags: []
+user_id: coder

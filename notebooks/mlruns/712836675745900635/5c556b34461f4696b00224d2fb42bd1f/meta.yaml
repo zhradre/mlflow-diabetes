@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/5c556b34461f4696b00224d2fb42bd1f/artifacts
+end_time: 1746516634189
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: 5c556b34461f4696b00224d2fb42bd1f
+run_name: flawless-wren-395
+run_uuid: 5c556b34461f4696b00224d2fb42bd1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516632879
+status: 3
+tags: []
+user_id: coder

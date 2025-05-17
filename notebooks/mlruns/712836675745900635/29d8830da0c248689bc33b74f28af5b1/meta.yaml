@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/29d8830da0c248689bc33b74f28af5b1/artifacts
+end_time: 1746516632612
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: 29d8830da0c248689bc33b74f28af5b1
+run_name: burly-fox-61
+run_uuid: 29d8830da0c248689bc33b74f28af5b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516632376
+status: 3
+tags: []
+user_id: coder

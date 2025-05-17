@@ -1,0 +1,6 @@
+artifact_location: file:///home/coder/mlflow_diabetes/notebooks/mlruns/490216320010424166
+creation_time: 1746515865119
+experiment_id: '490216320010424166'
+last_update_time: 1746515865119
+lifecycle_stage: active
+name: DiabetesRisk

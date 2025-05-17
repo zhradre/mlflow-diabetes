@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/dce824eebbea41bda80db8ea45bf8077/artifacts
+end_time: 1746516632114
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: dce824eebbea41bda80db8ea45bf8077
+run_name: salty-rat-884
+run_uuid: dce824eebbea41bda80db8ea45bf8077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516631850
+status: 3
+tags: []
+user_id: coder

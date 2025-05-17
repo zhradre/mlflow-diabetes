@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/490216320010424166/9e1e6fc8b250485a8c292a8892efa779/artifacts
+end_time: 1746515932757
+entry_point_name: ''
+experiment_id: '490216320010424166'
+lifecycle_stage: active
+run_id: 9e1e6fc8b250485a8c292a8892efa779
+run_name: bold-stoat-726
+run_uuid: 9e1e6fc8b250485a8c292a8892efa779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746515929224
+status: 3
+tags: []
+user_id: coder

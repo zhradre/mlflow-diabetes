@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/502f8401c9d74741a822bce29a540c5b/artifacts
+end_time: 1746516639876
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: 502f8401c9d74741a822bce29a540c5b
+run_name: colorful-flea-877
+run_uuid: 502f8401c9d74741a822bce29a540c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516638776
+status: 3
+tags: []
+user_id: coder

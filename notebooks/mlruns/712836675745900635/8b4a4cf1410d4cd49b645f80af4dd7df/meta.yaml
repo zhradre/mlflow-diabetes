@@ -1,0 +1,15 @@
+artifact_uri: file:///home/coder/mlflow_diabetes/notebooks/mlruns/712836675745900635/8b4a4cf1410d4cd49b645f80af4dd7df/artifacts
+end_time: 1746516635481
+entry_point_name: ''
+experiment_id: '712836675745900635'
+lifecycle_stage: active
+run_id: 8b4a4cf1410d4cd49b645f80af4dd7df
+run_name: aged-lamb-169
+run_uuid: 8b4a4cf1410d4cd49b645f80af4dd7df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516634198
+status: 3
+tags: []
+user_id: coder
